@@ -1,4 +1,4 @@
-# Linaer Regression
+# Linear Regression
 <br>
 Author : Bilawal Mir
 </br>
